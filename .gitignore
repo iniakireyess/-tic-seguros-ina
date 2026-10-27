@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env
+.env.local
+.env*.local
+*.log
+.DS_Store
+# seguros.db SÍ se sube: es parte de la entrega
